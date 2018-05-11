@@ -24,7 +24,7 @@ namespace MVC_CodeAlong_110518_Amer.Models
 
         public string Position { get; set; }
 
-        public string Department { get; set; }
+        public string Department { get; set; } 
 
 
     }
